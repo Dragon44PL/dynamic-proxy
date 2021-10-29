@@ -1,0 +1,1 @@
+Dynamic Proxy example project
